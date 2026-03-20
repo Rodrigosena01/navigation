@@ -25,7 +25,7 @@ fun PedidosScreen(modifier: Modifier = Modifier, navController: NavController) {
             .padding(32.dp)
     ) {
         Text(
-            text = "PERFIL",
+            text = "Pedidos",
             fontSize = 24.sp,
             fontWeight = FontWeight.Bold,
             color = Color.White
